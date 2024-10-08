@@ -6,7 +6,7 @@ To get access to the repositories, contact us in telegram:
 ```bash
 https://t.me/m4teracl
 ```
-3. Никита
+2. Никита
 ```bash
 https://t.me/StalinidzeCorp
 ```
