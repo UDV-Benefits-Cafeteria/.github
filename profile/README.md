@@ -10,19 +10,6 @@ The UDV Benefits Cafeteria is a web service designed to automate the process of 
 * Admins have full control over the system.
 
 ***
-## Getting Started
-To access the repositories or contribute to the project, please reach out to us on Telegram:
-
-1. Станислав
-```bash
-https://t.me/m4teracl
-```
-2. Никита
-```bash
-https://t.me/StalinidzeCorp
-```
-
-***
 
 ## Repositories
 * benefits-cafeteria-backend
@@ -46,3 +33,12 @@ Service monitoring and uptime scripts.
 ***
 ## Support
 If you encounter issues, please contact us via the Telegram links provided above.
+
+1. Станислав
+```bash
+https://t.me/m4teracl
+```
+2. Никита
+```bash
+https://t.me/StalinidzeCorp
+```
